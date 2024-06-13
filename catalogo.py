@@ -1,99 +1,55 @@
 catalogo = {
     "bebidas": {
         "refrigerantes": {
-            "coca-cola": {
-                "preço": 12
-            },
-            "sprite": {
-                "preço": 10
-            }
+            "coca-cola": 12,
+            "sprite": 10
         },
         "cha": {
-            "camomila": {
-                "preço": 15
-            },
-            "limão": {
-                "preço": 12
-            }
+            "camomila": 15,
+            "limão": 12
         },
         "suco": {
-            "laranja": {
-                "preço": 10
-            },
-            "tangerina": {
-                "preço": 10
-            }
+            "laranja": 10,
+            "tangerina": 10
         }
 
     },
     "entradas": {
         "quentes": {
-            "bruschetta": {
-                "preço": 25
-            },
-            "Bolinho de bacalhau": {
-                "preço": 30
-            },
-            "coxinha": {
-                "preço": 20
-            }
+            "bruschetta": 20,
+            "Bolinho de bacalhau": 20,
+            "coxinha": 20
         },
         "frios": {
-            "carpaccio": {
-                "preço": 30
-            },
+            "carpaccio": 20,
             "salada": {
                 "preço": 20
             },
-            "ceviche": {
-                "preço": 30
-            }
+            "ceviche": 20
         }
     },
     "pratos principais": {
 
         "carnes": {
-            "parmegiana": {
-                "preço": 85
-            },
-            "strogonoff": {
-                "preço": 55
-            },
-            "costela": {
-                "preço": 65
-            }
+            "parmegiana": 20,
+            "strogonoff": 20,
+            "costela": 20
         },
         "peixe": {
-            "Paella": {
-                "preço": 99
-            },
-            "salmão": {
-                "preço": 55
-            },
-            "tilapia": {
-                "preço": 40
-            }
+            "Paella": 20,
+            "salmão": 20,
+            "tilapia": 20
         }
     },
     "sobremesas": {
         "doces": {
-            "tiramisu": {
-                "preço": 25
-            },
-            "pudim": {
-                "preço": 20
-            },
-            "mousse": {
-                "preço": 20
-            }
+            "tiramisu": 20,
+            "pudim": 20,
+            "mousse": 20
         },
         "frutas": {
-            "salada de frutas": {
-                "preço": 12
-            },
-            "banana caramelizada": {
-                "preço": 11
-            }
+            "salada de frutas": 20,
+            "banana caramelizada": 20
         }
     }
 
